@@ -1,2 +1,2 @@
-# tekoalix_genai_learning
+# llm_learning
 generative ai learning
